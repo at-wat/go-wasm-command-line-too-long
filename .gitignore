@@ -1,0 +1,7 @@
+go-wasm-command-line-too-long
+
+go_js_wasm_exec
+wasm_exec.js
+.go-version-*
+
+.*.swp
